@@ -1,0 +1,9 @@
+pkg:
+- foo
+- foo-tools
+state: 
+  latest
+upgrade:
+  true
+restart:
+  true
